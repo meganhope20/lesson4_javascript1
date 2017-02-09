@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (In this assignment we were tasked with making a expense calculator using the index.html file as a base)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://meganhope20.github.io/lesson4_javascript1/Lesson4_ExpenseCalculator/)
 
 ### Lessons Learned in the Assignment:
 1. (Scripting is the language that Javascript uses)
